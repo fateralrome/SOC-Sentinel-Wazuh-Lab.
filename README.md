@@ -1,5 +1,5 @@
 # Project Sentinel: End-to-End SOC Simulation Lab
-
+📄 [Download Full PDF Report Here](./Fater_SOC_Lab_Report.pdf)
 ## Overview
 This project demonstrates the deployment of a professional SOC environment using Wazuh SIEM, Kali Linux, and Windows 10. It showcases the complete lifecycle of a cyberattack—from execution to detection and mapping.
 
